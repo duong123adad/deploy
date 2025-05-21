@@ -564,7 +564,7 @@ function OrderDetailDialog({
                   <TableCell>Sản phẩm</TableCell>
                   <TableCell>Số lượng</TableCell>
                   <TableCell>Đơn vị</TableCell>
-                  <TableCell>Giá gốc</TableCell>
+                  <TableCell>Giá</TableCell>
                   <TableCell>Giảm giá (%)</TableCell>
                   <TableCell>Thành tiền</TableCell>
                 </TableRow>
